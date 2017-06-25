@@ -4,10 +4,10 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 
-	* Functions
-	* Parameters
-	* Arguments
-	* `if` statements
+	* Functions - code you write instructions to to perform specific tasks, able to call as many times as you want.
+	* Parameters - variables used in the functions.
+	* Arguments - the actual information passed into the variables(parameters).
+	* `if` statements - statement you can use to get different results based on true/false(ex. if answer is true, print out a, if false, print out b).
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
 
